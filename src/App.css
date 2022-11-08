@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+h2 {
+  border: 1px;
+  border-style: solid;
+  margin-left: 40%;
+  margin-right: 40%;
+}
